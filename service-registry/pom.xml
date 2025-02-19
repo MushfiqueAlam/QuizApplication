@@ -8,7 +8,7 @@
 		<version>3.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.question</groupId>
+	<groupId>com.question </groupId>
 	<artifactId>service-registry</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>service-registry</name>
